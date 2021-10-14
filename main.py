@@ -7,7 +7,7 @@ current_card = {}
 to_learn = {}
 
 
-# try:
+try:
 #     data = pd.read_csv("data/words_to_learn.csv")
 # except FileNotFoundError:
 #     original_data = pd.read_csv("data/french_words.csv")
