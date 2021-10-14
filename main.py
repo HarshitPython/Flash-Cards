@@ -1,7 +1,7 @@
 from tkinter import *
 import pandas as pd
 import random
-# BACKGROUND_COLOR = "#B1DDC6"
+BACKGROUND_COLOR = "#B1DDC6"
 
 # current_card = {}
 
