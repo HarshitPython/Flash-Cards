@@ -12,7 +12,7 @@ try:
 except FileNotFoundError:
     original_data = pd.read_csv("data/french_words.csv")
     to_learn = original_data.to_dict(orient="records")
-# else:
+else:
 #     to_learn = data.to_dict(orient="records")
 
 
