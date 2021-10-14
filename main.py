@@ -5,7 +5,7 @@ BACKGROUND_COLOR = "#B1DDC6"
 
 current_card = {}
 
-# to_learn = {}
+to_learn = {}
 
 
 # try:
