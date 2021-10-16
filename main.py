@@ -29,7 +29,7 @@ def next_card():
 def flip_card():
     canvas.itemconfig(card_title,text="English",fill="white")
     canvas.itemconfig(card_word,text=current_card["English"],fill="white")
-#     canvas.itemconfig(card_background,image = card_back_img)
+    canvas.itemconfig(card_background,image = card_back_img)
 
 # def is_right():
 #     to_learn.remove(current_card)
