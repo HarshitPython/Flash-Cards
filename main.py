@@ -18,7 +18,7 @@ else:
 
 
 def next_card():
-#     global current_card,flip_timer
+    global current_card,flip_timer
 #     window.after_cancel(flip_timer)
 #     current_card = random.choice(to_learn)
 #     canvas.itemconfig(card_title,text="French",fill="black")
