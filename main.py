@@ -33,7 +33,7 @@ def flip_card():
 
 def is_right():
     to_learn.remove(current_card)
-#     print(len(to_learn))
+    print(len(to_learn))
 #     data = pd.DataFrame(to_learn)
 #     data.to_csv("data/words_to_learn.csv",index=False)
 #     next_card()
