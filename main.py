@@ -39,7 +39,7 @@ def is_right():
     next_card()
 
 window = Tk()
-# window.config(padx=50, pady=50,bg = BACKGROUND_COLOR)
+window.config(padx=50, pady=50,bg = BACKGROUND_COLOR)
 
 # window.title("Flashy")
 
