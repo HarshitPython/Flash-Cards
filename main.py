@@ -38,7 +38,7 @@ def is_right():
     data.to_csv("data/words_to_learn.csv",index=False)
     next_card()
 
-# window = Tk()
+window = Tk()
 # window.config(padx=50, pady=50,bg = BACKGROUND_COLOR)
 
 # window.title("Flashy")
