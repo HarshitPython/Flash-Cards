@@ -41,7 +41,7 @@ def is_right():
 window = Tk()
 window.config(padx=50, pady=50,bg = BACKGROUND_COLOR)
 
-# window.title("Flashy")
+window.title("Flashy")
 
 # flip_timer = window.after(3000, func=flip_card)
 
