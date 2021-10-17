@@ -36,7 +36,7 @@ def is_right():
     print(len(to_learn))
     data = pd.DataFrame(to_learn)
     data.to_csv("data/words_to_learn.csv",index=False)
-#     next_card()
+    next_card()
 
 # window = Tk()
 # window.config(padx=50, pady=50,bg = BACKGROUND_COLOR)
