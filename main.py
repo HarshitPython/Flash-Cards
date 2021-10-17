@@ -45,7 +45,7 @@ window.title("Flashy")
 
 flip_timer = window.after(3000, func=flip_card)
 
-# canvas = Canvas(width=800, height=526,highlightthickness=0)
+canvas = Canvas(width=800, height=526,highlightthickness=0)
 # card_front_img = PhotoImage(file="images/card_front.gif")
 # card_back_img = PhotoImage(file="images/card_back.gif")
 # card_background = canvas.create_image(400,263,image = card_front_img)
