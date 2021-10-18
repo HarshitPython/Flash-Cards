@@ -73,4 +73,4 @@ next_card()
 
 
 
-# window.mainloop()
+window.mainloop()
