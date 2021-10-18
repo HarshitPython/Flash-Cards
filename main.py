@@ -54,7 +54,7 @@ card_word = canvas.create_text(400,263,text = "Word",font = ("Arial",60,"bold"))
 canvas.config(bg = BACKGROUND_COLOR)
 canvas.grid(row=0, column=0,columnspan = 2)
 
-# right_img = PhotoImage(file="images/right.gif")
+right_img = PhotoImage(file="images/right.gif")
 # right_button = Button(image=right_img,highlightthickness=0,command=is_right)
 # right_button.grid(row=1, column=1)
 
