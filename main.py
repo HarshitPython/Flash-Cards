@@ -59,7 +59,7 @@ right_button = Button(image=right_img,highlightthickness=0,command=is_right)
 right_button.grid(row=1, column=1)
 
 wrong_img = PhotoImage(file="images/wrong.gif")
-# wrong_button = Button(image=wrong_img,highlightthickness=0,command=next_card)
+wrong_button = Button(image=wrong_img,highlightthickness=0,command=next_card)
 # wrong_button.grid(row=1, column=0)
 
 # next_card()
