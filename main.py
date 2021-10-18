@@ -56,7 +56,7 @@ canvas.grid(row=0, column=0,columnspan = 2)
 
 right_img = PhotoImage(file="images/right.gif")
 right_button = Button(image=right_img,highlightthickness=0,command=is_right)
-# right_button.grid(row=1, column=1)
+right_button.grid(row=1, column=1)
 
 # wrong_img = PhotoImage(file="images/wrong.gif")
 # wrong_button = Button(image=wrong_img,highlightthickness=0,command=next_card)
